@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudTableStorage", "CrudTableStorage\CrudTableStorage.csproj", "{56024600-D6C9-4CF2-A963-8DC078A9FCAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{0AA927C4-0B22-46A4-8D6C-1FFAC43ED462}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56024600-D6C9-4CF2-A963-8DC078A9FCAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56024600-D6C9-4CF2-A963-8DC078A9FCAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56024600-D6C9-4CF2-A963-8DC078A9FCAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56024600-D6C9-4CF2-A963-8DC078A9FCAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA927C4-0B22-46A4-8D6C-1FFAC43ED462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA927C4-0B22-46A4-8D6C-1FFAC43ED462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA927C4-0B22-46A4-8D6C-1FFAC43ED462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA927C4-0B22-46A4-8D6C-1FFAC43ED462}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02DF1324-2F30-4BF2-ABB1-07F94CE8B598}
+	EndGlobalSection
+EndGlobal
